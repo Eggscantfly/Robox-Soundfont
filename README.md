@@ -1,4 +1,4 @@
-# Robox-Soundfont
+# Robox Soundfont
 This soundfont was made from the data from the .wt (WaveTable) file paired along with the .pcm (Raw Wave Audio)
 
 # Usage
